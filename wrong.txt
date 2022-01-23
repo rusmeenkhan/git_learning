@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 master branchs file
+=======
+new file
+>>>>>>> staging
+
+
